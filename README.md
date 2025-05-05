@@ -10,14 +10,13 @@ This project showcases insightful data analysis using SQL queries on a music str
 
 ```
 .
-├── SQL_MusicPlayer.sql               # SQL queries answering business questions
-├── MusicPlayer_Dashboard_Insights.docx  # Word document with insights & implications
-├── README.md                         # This file
+├── SQL_MusicPlayer.sql                  SQL queries answering business questions
+├── MusicPlayer_Dashboard_Insights.docx  Word document with insights & implications
 ```
 
 ---
 
-## 📊 Key Business Questions Answered
+## 📊 Key Business Insights
 
 - **Who is the senior-most employee based on job title?**
 - **Which countries generate the most invoices?**
